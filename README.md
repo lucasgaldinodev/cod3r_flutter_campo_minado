@@ -1,6 +1,6 @@
 # Projeto Campo Minado
 
-Projeto atualizado para as versões novas do Dart e Flutter do projeto Perguntas do curso [Aprenda Flutter & Dart e Construa APPs iOS e Android](https://www.cod3r.com.br/courses/aprenda-flutter-dart-e-construa-apps-ios-e-android) da [Cod3r](https://www.cod3r.com.br/).
+Projeto atualizado para as versões novas do Dart e Flutter do projeto Campo Minado do curso [Aprenda Flutter & Dart e Construa APPs iOS e Android](https://www.cod3r.com.br/courses/aprenda-flutter-dart-e-construa-apps-ios-e-android) da [Cod3r](https://www.cod3r.com.br/).
 
 ## Executando o projeto
 
