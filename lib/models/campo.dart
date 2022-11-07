@@ -40,14 +40,14 @@ class Campo {
       throw ExplosaoException();
     }
 
-    if (vizinhacaSegura) {
+    if (vizinhancaSegura) {
       for (var v in vizinhos) {
         v.abrir();
       }
     }
   }
 
-  void revelarBomba() {
+  void revelarBombas() {
     if (_minado) {
       _aberto = true;
     }
@@ -90,7 +90,7 @@ class Campo {
     return minadoEMarcado || seguroEAberto;
   }
 
-  bool get vizinhacaSegura {
+  bool get vizinhancaSegura {
     return vizinhos.every((v) => !v.minado);
   }
 
